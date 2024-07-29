@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x6f5c1bEB0Ae14D1422B4B3b874ac6D3d225f9940
 ```
 
 ## Steps
@@ -15,11 +15,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-perc20-mint-token.git
+git clone https://github.com/gadroen/swisstronik-mint-perc20-gdr.git
 ```
 
 ```
-cd swisstronik-perc20-mint-token
+cd swisstronik-mint-perc20-gdr
 ```
 
 ### 2. Install Dependency
@@ -75,8 +75,6 @@ npm run transfer
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
-
-0xCd825ae0335190f4c8882DF16FB0577d478b3898
+github : [gadroen](https://github.com/gadroen)
+telegram : @EwinGadroen
+//0x6f5c1bEB0Ae14D1422B4B3b874ac6D3d225f9940
